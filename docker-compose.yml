@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  airports-rest-api:
+    image: airportsrestapi
+    build:
+      context: .\Airports-REST-API
+      dockerfile: Dockerfile

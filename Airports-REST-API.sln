@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airports-REST-API", "Airports-REST-API\Airports-REST-API.csproj", "{7B8D7C2E-CCFE-4672-8890-DCDBEC3E5C2B}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{724251BE-E139-4F0F-9715-5BE937FFB3BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B8D7C2E-CCFE-4672-8890-DCDBEC3E5C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8D7C2E-CCFE-4672-8890-DCDBEC3E5C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8D7C2E-CCFE-4672-8890-DCDBEC3E5C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8D7C2E-CCFE-4672-8890-DCDBEC3E5C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{724251BE-E139-4F0F-9715-5BE937FFB3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724251BE-E139-4F0F-9715-5BE937FFB3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724251BE-E139-4F0F-9715-5BE937FFB3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724251BE-E139-4F0F-9715-5BE937FFB3BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98909253-2CE1-4ABA-A833-727FF21394FD}
+	EndGlobalSection
+EndGlobal
